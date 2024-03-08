@@ -1,4 +1,1 @@
-# final
-# final
-# cleanzone
-# cleanzone
+# AI 모델과 Spring Boot Server와의 API 통신
